@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**LeeKarLi/LeeKarLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Bachelor of Applied Data Science student at Monash University Malaysia.
 
-Here are some ideas to get you started:
+I am interested in using data analysis and machine learning to solve practical problems. My recent work includes financial data analysis, portfolio optimisation, and CNN-based medical image classification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas I'm working on
+- Exploratory Data Analysis
+- Machine Learning
+- Deep Learning
+- Statistical Modelling
+- Data Visualisation
+
+## Tools
+Python | SQL | R | MongoDB | Git | Jupyter | Google Colab
+
+## Featured Projects
+- 📈 Stock Portfolio Analysis & Minimum Variance Portfolio
+- 🩺 Melanoma Image Classification using CNNs
