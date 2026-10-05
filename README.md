@@ -12,8 +12,10 @@ I am interested in using data analysis and machine learning to solve practical p
 - Data Visualisation
 
 ## Tools
-Python | SQL | R | MongoDB | Git | Jupyter | Google Colab
+Python | SQL | R | MongoDB | Git | Jupyter Notebook | Google Colab | Microsoft Excel
 
 ## Featured Projects
 - 📈 Stock Portfolio Analysis & Minimum Variance Portfolio
 - 🩺 Melanoma Image Classification using CNNs
+- 🏥 ICU Mortality Prediction and Clinical Data Analysis
+
